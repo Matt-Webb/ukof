@@ -1,12 +1,12 @@
 ![ukoutdoorfitness](http://www.ukoutdoorfitness.com/wp-content/uploads/2014/05/ukod_logo.png)
 
-# UK Outdoor Fitness - Meteor App
+# UK Outdoor Fitness - MEAN Stack
 
 ### Tasks
 
 ###### Phase I - DEMO
-  * create MEAN app
-  * create directory structure
+  * ~~create MEAN app~~
+  * ~~create directory structure (pre defined) ~~
   * add theme files
   * add branding colours
   * add schemas
@@ -37,4 +37,4 @@
 
 ### View
 
-View site: [demo](https://jbeasley123.github.io/)
+View site: [demo]()

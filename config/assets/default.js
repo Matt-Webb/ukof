@@ -5,9 +5,14 @@ module.exports = {
     lib: {
       css: [
         'public/lib/bootstrap/dist/css/bootstrap.css',
-        'public/lib/bootstrap/dist/css/bootstrap-theme.css'
+        'public/lib/bootstrap/dist/css/bootstrap-theme.css',
+        'public/lib/theme/css/plugin.css',
+        'public/lib/theme/css/style.css',
+        'public/lib/theme/css/responsive.css'
       ],
       js: [
+        'public/lib/jquery/dist/jquery.min.js',
+        'public/lib/theme/js/plugin.js',
         'public/lib/angular/angular.js',
         'public/lib/angular-resource/angular-resource.js',
         'public/lib/angular-animate/angular-animate.js',
